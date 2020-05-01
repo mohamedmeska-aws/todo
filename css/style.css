@@ -71,6 +71,7 @@ a, a:hover, a:focus, a:active, a:visited {
 
 h1, h2, h3 {
   font-family: "Womby", ProximaNovaBold, ProximaNova, Arial, sans-serif;
+  font-weight: bold;
 }
 
 body {
